@@ -1,0 +1,6 @@
+ROTORS = {
+    "1": {"wiring": "EKMFLGDQVZNTOWYHXUSPAIBRCJ", "notch": "Q"},
+    "2": {"wiring": "AJDKSIRUXBLHWTMCQGZNPYFVOE", "notch": "E"},
+    "3": {"wiring": "BDFHJLCPRTXVZNYEIWGAKMUSQO", "notch": "V"},
+}
+REFLECTOR = "YRUHQSLDPXNGOKMIEBFZCWVJAT"
